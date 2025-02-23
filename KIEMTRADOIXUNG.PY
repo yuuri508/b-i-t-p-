@@ -7,5 +7,7 @@ with open('KIEMTRADOIXUNG.OUT.txt', 'w')as fi:
         return False
     if palindom(s):
         print('true')
+        fi.write(f"True")
     else:
         print('false')
+        fi.write(f"False")
