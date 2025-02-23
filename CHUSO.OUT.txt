@@ -1,0 +1,1 @@
+so luong cac chu so[2, 3, 6] la: 3
